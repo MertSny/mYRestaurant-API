@@ -9,3 +9,11 @@ C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\obj\Debug\n
 C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\bin\Debug\net6.0\Core.dll
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Mert Sunay\Desktop\githubprojects\MyRestaurant-API\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
