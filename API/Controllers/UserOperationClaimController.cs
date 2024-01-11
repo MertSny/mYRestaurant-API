@@ -3,10 +3,8 @@ using Core.Helpers;
 using Core.Model.SearchRequests;
 using Entities.DTO;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using static Core.Enums.OrderByEnums;
-using System.Threading.Tasks;
 
 namespace API.Controllers
 {

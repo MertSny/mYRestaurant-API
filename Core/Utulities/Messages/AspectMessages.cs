@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Core.Utulities.Messages
+﻿namespace Core.Utulities.Messages
 {
     public static class AspectMessages
     {

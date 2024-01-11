@@ -1,11 +1,10 @@
-﻿using Castle.Core.Configuration;
-using Core.Entites.Concrete;
+﻿using Core.Entites.Concrete;
 using Core.Extension;
 using Core.Utulities.Security.Encryption;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
-using Microsoft.Extensions.Configuration;
 
 namespace Core.Utulities.Security.JWT
 {

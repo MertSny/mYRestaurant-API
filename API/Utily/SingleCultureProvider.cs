@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Localization;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Localization;
 
 namespace API.Utily
 {

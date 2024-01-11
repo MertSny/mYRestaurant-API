@@ -4,11 +4,6 @@ using Core.Utulities.IOC;
 using DataAccess.Abstract;
 using DataAccess.Concrete;
 using Microsoft.AspNetCore.Http;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Business.BusinessAspect.LogAspect
 {
